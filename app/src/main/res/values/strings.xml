@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ConstraintKotlinAssignment</string>
+    <string name="locate">Locating Nearby Parkings...</string>
+    <string name="nearest">Nearest Parkings</string>
+    <string name="DT_maill">DT Mega Mall, Golf Course Road</string>
+    <string name="route">Route</string>
+    <string name="time">9:41 </string>
+    <string name="mtrs">800 mtrs</string>
+    <string name="mtrrs">900 mtrs</string>
+    <string name="kmtrs">1.2 kmtrs</string>
+    <string name="reserve">Reserve a spot</string>
+    <string name="other">Other Parkings Nearby</string>
+    <string name="admiral">Admiral Technologies Parking</string>
+    <string name="tech">Tech Park Basement Parking</string>
+
+</resources>
